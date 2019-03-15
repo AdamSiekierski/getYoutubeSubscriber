@@ -1,0 +1,22 @@
+{
+  "name": "getyoutubesubscriber",
+  "version": "0.1.0",
+  "description": "Simply get the number of subscriber count of user",
+  "main": "index.js",
+  "repository": "https://github.com/AdamSiekierski/getYoutubeSubscriber.git",
+  "author": "Adam Siekierski",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node ./index.js"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "keywords": [
+    "youtube",
+    "subscribers",
+    "API",
+    "npm",
+    "authorization"
+  ]
+}
