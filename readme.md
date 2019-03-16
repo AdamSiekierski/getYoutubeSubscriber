@@ -4,7 +4,7 @@
 Quickly get number of subscribers of youtube account. Don't need to get an API key, just implement and it just works
 
 ### Usage
-```ecmascript 6
+```javascript
 
 const getYoutubeSubscriber = require('getyoutubesubscriber')
 
