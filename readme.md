@@ -8,7 +8,7 @@ Quickly get number of subscribers of youtube account. Don't need to get an API k
 
 const getYoutubeSubscriber = require('getyoutubesubscriber')
 
-getYoutubeSubscriber('{ Here place channel ID }').then((data) => {
+getYoutubeSubscriber('Here place channel ID').then((data) => {
    console.log(data) // log subscriber count 
 });
 
